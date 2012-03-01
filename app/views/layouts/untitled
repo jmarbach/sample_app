@@ -1,0 +1,19 @@
+Design Boom Exclusive - Solution For Email Overload - First webmail interface update in 8yrs!
+
+Glider automatically filters and categorizes your email based on content and sender. Save time in your inbox by focusing on what matters most.
+
+Who: John Marbach (Thiel Fellow), Brandon Paton, Henry Liu
+What: New webmail client that auto-sorts email.
+Where: http://glider.io
+When: 2-3 weeks!
+Why: Save time in your inbox by focusing on what matters most. Too much bacn in
+the inbox!
+
+Features:
+- Integration with Gmail/Google apps
+- Auto-sorting by sender into three email contexts: conversations, notifications, mailing lists.
+- Easily view all previous messages with a particular sender. (Similar to skype/facebook messaging.) 
+- Key information from "notifications" is parsed out and displayed nicely. For example, five follower notifications from twitter turns into just a single message with the usernames.
+- Promotional emails are viewed in a Magazine style format, scrolling horizontally.
+- Really fast.
+
